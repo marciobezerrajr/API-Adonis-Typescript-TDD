@@ -36,7 +36,7 @@ export default class UpdateUserValidator {
    *
    * {
    *   'profile.username.required': 'Username is required',
-   *   'scores.*.number': 'Define scores as valid numbers'
+   *   'scores.*.number': 'Define scores as valid numbers' 
    * }
    *
    */
